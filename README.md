@@ -1,4 +1,4 @@
-# Practical Application Project: Sales Parameters for Used Cards
+# Practical Application Project: Sales Parameters for Used Cars
 By: Gabriel Diaz de Leon
 
 https://github.com/GabrielDiazdeleon/Berkeley_Portfolio_MLRegressionModel/blob/b266680b5341c89c3fecd8aa12f0f7c5de9bbd64/Used%20Car%20Regression%20Practical%20Application%20Project.ipynb
